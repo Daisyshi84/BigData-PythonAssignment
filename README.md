@@ -1,6 +1,8 @@
 Python Assignment
 
+Description
 
+This script outputs the linguistic complexity of each sequence in a file of sequences. 
 
 Instruction
 
