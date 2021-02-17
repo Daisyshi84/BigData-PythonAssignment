@@ -1,8 +1,5 @@
 
 """
-Spring 2020 DSP 539: Assignment 4 Python
-
-
 This script should be run using the command line, outputs the linguistic complexity of each sequence in a file of sequences. 
 The sequence file should be passed by the end user as a command line argument.
 
